@@ -1,5 +1,24 @@
 export const gameList = [
   {
+    id: 10,
+    title: 'NieR: Automata',
+    teaser:
+      'NieR: Automata tells the story of androids 2B, 9S and A2 and their battle to reclaim the machine-driven dystopia overrun by powerful machines.',
+    description:
+      'NieR: Automata tells the story of androids 2B, 9S and A2 and their battle to reclaim the machine-driven dystopia overrun by powerful machines. \n\nHumanity has been driven from the Earth by mechanical beings from another world. In a final effort to take back the planet, the human resistance sends a force of android soldiers to destroy the invaders. Now, a war between machines and androids rages on... A war that could soon unveil a long-forgotten truth of the world.',
+    rating: 5.1,
+    category: ['Action', 'RPG'],
+    age: '18+',
+    cover: require('./assets/img/nier_1.jpg'),
+    screenshots: [
+      require('./assets/img/nier_2.jpg'),
+      require('./assets/img/nier_1.jpg'),
+      require('./assets/img/nier_3.jpg'),
+      require('./assets/img/nier_4.jpg'),
+    ],
+    backgroundColor: 'rgba(219, 219, 206, 0.8)',
+  },
+  {
     id: 1,
     title: 'Grand Theft Auto V',
     teaser:
