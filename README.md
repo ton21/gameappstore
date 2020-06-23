@@ -1,2 +1,6 @@
 # gameappstore
-Estudo de layout
+Estudo de layout em React Native.
+
+## Fontes e Inspirações
+https://www.youtube.com/watch?v=LZh9Za0mp-c&t=736s
+https://dribbble.com/shots/11112001-Games-Store
