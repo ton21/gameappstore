@@ -11,7 +11,7 @@ https://dribbble.com/shots/11112001-Games-Store
 ## Recursos
 
 - Styled components
-- Reutilização de componentes
+- Reutilização de componente, conforme situação
 - Flatlist horizontal/vertical
 - React Navigation v5
 - Customização da tabbar
